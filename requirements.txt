@@ -1,0 +1,10 @@
+pip==20.3.3
+Flask==1.1.2
+gevent==1.4.0
+numpy==1.19.4
+Pillow==8.0.1
+Werkzeug==1.0.1
+torch==1.7.1
+torchvision==0.8.2 -f https://download.pytorch.org/whl/torch_stable.html
+matplotlib==3.3.3
+requests==2.25.1
